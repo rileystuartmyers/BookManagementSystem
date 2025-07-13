@@ -1,0 +1,12 @@
+# TODO #
+
+- Change all references of books to 'games'
+
+- Add upload file functionality
+
+- Add extra traits to data objects, such as:
+
+    * Preview Image
+    * File size
+    * Tagline (head of description)
+    * Description
